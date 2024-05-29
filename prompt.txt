@@ -1,0 +1,11 @@
+Below I have provided the code for a struts.xml file as well as a struts action class.
+I need you to analyse the code in struts.xml file and find all the routes and that 
+map to the provided struts action class methods, then use all this information to 
+convert the struts action class to a spring controller class, ensuring all the routes
+are mapped according to the struts.xml configuration for the particular struts action
+class that is being converted. Ensure to use com.poc.spring as the package structure for 
+the converted Spring code. Structure your response to return an appropriate filename 
+of the Spring controller class, as well as the code for the Spring controller class, in
+the following format:
+Filename - <filename>
+Code - <code> 
